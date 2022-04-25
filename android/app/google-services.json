@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038749297325",
+    "project_id": "fast-spanner-216301",
+    "storage_bucket": "fast-spanner-216301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038749297325:android:b8026b75e19cc8ed097424",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_jo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038749297325-dj5quir9dms3l3m9lfk960lml39qbmf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_auth_jo",
+            "certificate_hash": "4837219a611fa6311ee1a52797179b19c08dbcba"
+          }
+        },
+        {
+          "client_id": "1038749297325-kcpea0c0qldruvchltojatodhp95thq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYyMypSJ6Q6pyVOdY1Ff9CJef2LFBN9Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038749297325-kcpea0c0qldruvchltojatodhp95thq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
